@@ -1,0 +1,50 @@
+/* Color Palette:
+primary:    #FFFBEB
+secondary:  #495579
+tertiary:   #263159
+accent:     #251749
+*/
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #251749;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #495579;
+    color: #fff;
+    padding: 1.5rem;
+    margin: 1.2rem;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 2rem;
+}
+
+li {
+    padding: 0.2rem;
+}
+
+.post {
+    background-color: #FFFBEB;
+    margin: 1.2rem;
+    padding: 1.5rem;
+    line-height: 2rem;
+}
+
+.post p {
+    text-indent: 1.2rem;
+}
